@@ -1,0 +1,19 @@
+{
+  "name": "magicsplitter-osc",
+  "module": "index.ts",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "node-osc": "^9.1.4"
+  },
+  "pkg": {
+    "outputPath": "dist"
+  },
+  "bin": "index.js",
+  "author": "asamikafune"
+}

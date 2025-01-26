@@ -1,0 +1,22 @@
+{
+    "debug": {
+        "VRC": false,
+        "splitter": false
+    },
+    "splitter": {
+        "host": "127.0.0.1",
+        "port": 10001
+    },
+    "VRCHAT": {
+        "host": "127.0.0.1",
+        "out": 9000,
+        "in": 9001
+    },
+    "devices": [
+        {
+            "name": "TEXT TO SPHEEH",
+            "host": "127.0.0.1",
+            "listen_port": 7001
+        }
+    ]
+}
